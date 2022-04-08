@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://traceydevcapg.github.io/csb-xkeolp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://traceydevcapg.github.io/csb-xkeolp/static/js/main.c1ea3dde.chunk.js",
+    "main.js.map": "https://traceydevcapg.github.io/csb-xkeolp/static/js/main.c1ea3dde.chunk.js.map",
+    "runtime-main.js": "https://traceydevcapg.github.io/csb-xkeolp/static/js/runtime-main.9a6f54c5.js",
+    "runtime-main.js.map": "https://traceydevcapg.github.io/csb-xkeolp/static/js/runtime-main.9a6f54c5.js.map",
+    "static/js/2.10203a31.chunk.js": "https://traceydevcapg.github.io/csb-xkeolp/static/js/2.10203a31.chunk.js",
+    "static/js/2.10203a31.chunk.js.map": "https://traceydevcapg.github.io/csb-xkeolp/static/js/2.10203a31.chunk.js.map",
+    "index.html": "https://traceydevcapg.github.io/csb-xkeolp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://traceydevcapg.github.io/csb-xkeolp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.10203a31.chunk.js.LICENSE.txt": "https://traceydevcapg.github.io/csb-xkeolp/static/js/2.10203a31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6f54c5.js",
+    "static/js/2.10203a31.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1ea3dde.chunk.js"
+  ]
+}
